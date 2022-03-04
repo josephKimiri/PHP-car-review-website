@@ -34,7 +34,7 @@ echo "<script type='text/javascript'> document.location = 'change-password.php';
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>Car Rental Portal | Admin Login</title>
+	<title>Mash Rental Cars | Admin Login</title>
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/dataTables.bootstrap.min.css">

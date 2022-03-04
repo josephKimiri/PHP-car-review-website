@@ -1,5 +1,5 @@
 <div class="brand clearfix">
-	<a href="dashboard.php" style="font-size: 20px;">Car Rental Portal | Admin Panel</a>  
+	<a href="dashboard.php" style="font-size: 20px;">Mash Rental Cars | Admin Panel</a>  
 		<span class="menu-btn"><i class="fa fa-bars"></i></span>
 		<ul class="ts-profile-nav">
 			

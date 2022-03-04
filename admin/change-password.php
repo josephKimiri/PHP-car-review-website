@@ -45,7 +45,7 @@ $error="Your current password is not valid.";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 	
-	<title>Car Rental Portal | Admin Change Password</title>
+	<title>Mash Rental Cars | Admin Change Password</title>
 
 	<!-- Font awesome -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
