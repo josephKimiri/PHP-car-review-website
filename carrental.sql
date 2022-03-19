@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `carrental`
+-- Database: `carrentalsdb`
 --
 
 -- --------------------------------------------------------
@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `UserName`, `Password`, `updationDate`) VALUES
-(1, 'admin', 'admin', '0000-00-00 00:00:00');
+(1, 'mashadmin', 'admin123', '2022-03-13 00:00:00');
 
 -- --------------------------------------------------------
 
