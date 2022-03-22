@@ -18,7 +18,7 @@ $query->execute();
 $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
 {
-$msg="Query Sent. We will contact you shortly";
+$msg="Message Sent. We will contact you shortly";
 }
 else 
 {
@@ -148,6 +148,11 @@ $error="Something went wrong. Please try again";
       <div class="col-md-6">
         <h3>Contact Info</h3>
         <div class="contact_detail">
+        <p class="uppercase_text">For Support Mail us : </p>
+              <a href="mailto:josephmanash@gmail.com">josephmanash@gmail.com</a> </div>
+           
+        <p class="uppercase_text">Service Helpline Call Us: </p>
+              <a href="tel:61-1234-5678-09">+254746023103</a> </div>
               <?php 
 $pagetype=$_GET['type'];
 $sql = "SELECT Address,EmailId,ContactNo from tblcontactusinfo";
@@ -171,7 +176,7 @@ foreach($results as $result)
             </li>
             <li>
               <div class="icon_wrap"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-              <div class="contact_info_m"><a href="mailto:contact@exampleurl.com"><?php   echo htmlentities($result->ContactNo); ?></a></div>
+              <div class="contact_info_m"><a href="josephmanash@gmail.com"><?php   echo htmlentities($result->ContactNo); ?></a></div>
             </li>
           </ul>
         <?php }} ?>

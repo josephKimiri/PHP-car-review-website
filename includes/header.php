@@ -18,11 +18,10 @@
               <a href="tel:61-1234-5678-09">+254746023103</a> </div>
             <div class="social-follow">
               <ul>
-                <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/joseph.mash.5243/"target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/Mashkimiri"target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/joseph-kimiri/"target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/mash_kimiri/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
               </ul>
             </div>
    <?php   if(strlen($_SESSION['login'])==0)
@@ -32,7 +31,7 @@
 <?php }
 else{ 
 
-echo "Welcome To Mash Rental Cars";
+echo "Welcome To Mash Car Talks";
  } ?>
           </div>
         </div>

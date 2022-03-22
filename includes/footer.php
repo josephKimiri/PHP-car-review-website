@@ -49,7 +49,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
         </div>
   
         <div class="col-md-3 col-sm-6">
-          <h6>Subscribe Newsletter</h6>
+          <h6>Receive Car Reviews on your email.</h6>
           <div class="newsletter-form">
             <form method="post">
               <div class="form-group">
@@ -70,16 +70,16 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
           <div class="footer_widget">
             <p>Connect with Us:</p>
             <ul>
-              <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/joseph.mash.5243/"target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/Mashkimiri"target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/joseph-kimiri/"target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/mash_kimiri/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             </ul>
           </div>
         </div>
         <div class="col-md-6 col-md-pull-6">
-          <p class="copy-right">Copyright &copy; 2022 Mash Rental Cars. All Rights Reserved</p>
+          <p class="copy-right">Copyright &copy; 2022 Mash Car Talks |  All Rights Reserved <a href="https://www.youtube.com/channel/UCw4BncifFwjpSHgvEF37VQQ" target="_blank"> Mash Developers</a><br>
+</p>
         </div>
       </div>
     </div>
